@@ -1,0 +1,16 @@
+.form-container{
+    border: 5px solid black;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+input{
+    width: 96%;
+    padding: 10px;
+}
+p{
+    font-weight: bolder;
+}
+.container{
+    width: 100%;
+}

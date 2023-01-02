@@ -1,0 +1,12 @@
+.home{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 5px;
+}
+@media only screen and (max-width: 768px) {
+    .home{
+        display: grid;
+        grid-template-columns: auto;
+    }   
+    
+}

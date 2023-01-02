@@ -1,0 +1,1708 @@
+[
+    {
+      "id": 1,
+      "name": "Dhaka",
+      "distrct": [
+        {
+          "dist_id": 1,
+          "dist_name": "Dhaka",
+          "area": [
+            {
+              "area_id": 1,
+              "area_name": "Mirpur",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 2000,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 2001,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 4"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 5"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 6"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 2002,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 7"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 8"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 11"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "area_id": 2,
+              "area_name": "Motijil",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 2003,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "RL Road"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mogbazr"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Polli"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 2004,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Hatirjil"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Fokirer PUL"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Hasin Nagor"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 2005,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "malibag"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Khillet"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "JoyNagor"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "area_id": 3,
+              "area_name": "Dhanmondi",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 2006,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Hatir pur"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Moahmmadpur"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "PalPara"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 2007,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Jinda 2"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Garageam"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "DL@"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 2008,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "STR2"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Nizam Chottor"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Nagorpur"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "dist_id": 2,
+          "dist_name": "Narayongonj",
+          "area": [
+            {
+              "area_id": 1,
+              "area_name": "Station",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 3000,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "DL 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "PL 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "PR 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 3001,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Joy para"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "bangla gram"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "12er gram"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 3002,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "STY 2"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "NAR 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "NAR3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "area_id": 2,
+              "area_name": "Chourasta",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 3003,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "MY 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "MP 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "ME 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 3004,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "A 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "A 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "A 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 3005,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "B 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "B 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "B 3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "area_id": 3,
+              "area_name": "Main Point",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 3006,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "C 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "C 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "C 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 3007,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "D 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "D 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "D 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 3008,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "E 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "E 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "E 3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "dist_id": 3,
+          "dist_name": "Faridpur",
+          "area": [
+            {
+              "area_id": 1,
+              "area_name": "Dhamrai",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 4000,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "D 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "D 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "D 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 4001,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "M 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "M 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "M 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 4002,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "X 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "X 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "X 3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "area_id": 2,
+              "area_name": "Pirpur",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 4003,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "V 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "V 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "V 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 4004,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "V 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "R 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "R 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 4005,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "O 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "O 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "O 3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "area_id": 3,
+              "area_name": "Chou Chottor",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 4006,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "L 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "L 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "L 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 4007,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "VB 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "VB 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "VB 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 4008,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "VP 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "VC 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "VN 3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Rajshahi",
+      "distrct": [
+        {
+          "dist_id": 1,
+          "dist_name": "Rajshahi",
+          "area": [
+            {
+              "area_id": 1,
+              "area_name": "Rajshahi City",
+              "street": [
+                {
+                  "street_id": 1,
+                  "street_name": "Mirpur 1"
+                },
+                {
+                  "street_id": 2,
+                  "street_name": "Mirpur 2"
+                },
+                {
+                  "street_id": 3,
+                  "street_name": "Mirpur 3"
+                }
+              ],
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 6000,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 6001,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 6002,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "area_id": 2,
+              "area_name": "Rampukur",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 6003,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 6004,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 6005,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "area_id": 3,
+              "area_name": "Pandma Par",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 6006,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 6007,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 6008,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "dist_id": 2,
+          "dist_name": "Bogura",
+          "area": [
+            {
+              "area_id": 1,
+              "area_name": "Bogura Pourosova",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 7000,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 7001,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 7002,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "area_id": 2,
+              "area_name": "Joypur",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 7003,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 7004,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 7005,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "area_id": 3,
+              "area_name": "Digipur",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 7006,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 7007,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 7008,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "dist_id": 3,
+          "dist_name": "Sirajgonj",
+          "area": [
+            {
+              "area_id": 1,
+              "area_name": "Sirajgong Pourosova",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 8000,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 8001,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 8002,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "area_id": 2,
+              "area_name": "Pirpur",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 8003,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 8004,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 8005,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "area_id": 3,
+              "area_name": "Dhanara",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 8006,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 8007,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 8008,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Rangpur",
+      "distrct": [
+        {
+          "dist_id": 1,
+          "dist_name": "Rangpur",
+          "area": [
+            {
+              "area_id": 1,
+              "area_name": "Rangpur City",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 5000,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 5001,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 5002,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "area_id": 2,
+              "area_name": "Pirgasa",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 5003,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 5004,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 5005,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "area_id": 3,
+              "area_name": "Mithapukur",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 5006,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 5007,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 5008,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "dist_id": 2,
+          "dist_name": "Kurigram",
+          "area": [
+            {
+              "area_id": 1,
+              "area_name": "Kurigram Pourosoava",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 9000,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 9001,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 9002,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "area_id": 2,
+              "area_name": "Chilmari",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 9003,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 9004,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 9005,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "area_id": 3,
+              "area_name": "Nagersori",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 9006,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 9007,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 9008,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "dist_id": 3,
+          "dist_name": "Panchagor",
+          "area": [
+            {
+              "area_id": 1,
+              "area_name": "Pourosaova",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 1000,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 1001,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 1002,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "area_id": 2,
+              "area_name": "Rani Gonj",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 1003,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 1004,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 1005,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Mirpur 1"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Mirpur 2"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Mirpur 3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "area_id": 3,
+              "area_name": "Zero Point",
+              "zip": [
+                {
+                  "zip_id": 1,
+                  "zip_code": 1006,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Birpur"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "JahaGram"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Kamal para"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 2,
+                  "zip_code": 1007,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Serpur"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Azim Nagor"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Cha Bagan"
+                    }
+                  ]
+                },
+                {
+                  "zip_id": 3,
+                  "zip_code": 1008,
+                  "street": [
+                    {
+                      "street_id": 1,
+                      "street_name": "Hemapur"
+                    },
+                    {
+                      "street_id": 2,
+                      "street_name": "Zero Nagor"
+                    },
+                    {
+                      "street_id": 3,
+                      "street_name": "Alapur"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
